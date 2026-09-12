@@ -76,7 +76,7 @@ vision-graded QA, and human review kept where it earns its place.
 Most useful where the brief is *"this works but it doesn't scale"* or *"we need to ship five
 formats and we're doing it by hand."*
 
-> `LOCATION` · `START` — *fill in: Toronto / remote / hybrid, and availability.*
+📍 **Toronto, Canada**
 
 📫 **Nanda@nmediaservices.com** · [LinkedIn](https://www.linkedin.com/in/mnkmars/) · [nmediaservices.com](https://www.nmediaservices.com)
 
