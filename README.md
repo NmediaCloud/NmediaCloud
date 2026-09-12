@@ -40,6 +40,23 @@ Each module is operator-runnable from a single browser tab, and every project fi
 
 ---
 
+### 📊 By the numbers
+
+Working evidence, not estimates — token figures come from local Claude Code usage
+records, catalogue size from the live platform.
+
+| | |
+|---|---|
+| **61.1M** | output tokens generated across 61,080 model turns |
+| **835M** | tokens processed — input, output and cache writes |
+| **8** | Claude models in rotation: Opus 4.6/4.7/4.8/5, Fable 5, Sonnet 4.6/5, Haiku 4.5 |
+| **87** | active build days, Apr–Sep 2026 |
+| **15,000+** | owned 8K image and 4K video assets shipping through [Stockflow.media](https://stockflow.media/) |
+| **~1,800 / ~500** | images / video assets moving through the production pipelines |
+
+Multi-model by habit rather than preference — the pipeline's generation layer is
+provider-agnostic, and so is the way I work.
+
 ### 🛠 What I build with
 
 **Pipeline & automation** — Python, FastAPI, Flask, async job orchestration, prompt systems, model-agnostic provider layers
