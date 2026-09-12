@@ -62,19 +62,21 @@ Each module is operator-runnable from a single browser tab, and every project fi
 I take on the problems that sit between a creative team and a delivery deadline — where
 the fix is usually a system, not more hours.
 
-**Creative-technical direction** — owning the pipeline for a series, film or campaign, and the
-people running it
-**Pipeline architecture & automation** — turning a manual, hand-off-heavy process into something
-operator-runnable and repeatable
-**AI-native production tooling** — model-agnostic generation layers, prompt systems, vision-graded
-QA, human review where it actually matters
-**Full-stack media systems** — the web, data and delivery layer around the creative work
+**Forward Deployed Engineering** — embedding with a customer's team to make the product
+actually work against their real pipeline, data and constraints
+**Creative Technology leadership** — Head of / Director of Creative or Production Technology
+**Technical Direction** — pipeline & automation, creative systems, production technology
+**Pipeline & systems architecture** — production pipeline, media solutions, creative workflow
+**Engineering management** — creative systems and production platform teams
+
+What I actually do in all five: turn a manual, hand-off-heavy creative process into something
+operator-runnable and repeatable — model-agnostic generation layers, prompt systems,
+vision-graded QA, and human review kept where it earns its place.
 
 Most useful where the brief is *"this works but it doesn't scale"* or *"we need to ship five
 formats and we're doing it by hand."*
 
-> `ROLE_TYPE` · `LOCATION` · `START` — *fill these in: full-time / contract / fractional,
-> Toronto / remote / hybrid, and availability.*
+> `LOCATION` · `START` — *fill in: Toronto / remote / hybrid, and availability.*
 
 📫 **Nanda@nmediaservices.com** · [LinkedIn](https://www.linkedin.com/in/mnkmars/) · [nmediaservices.com](https://www.nmediaservices.com)
 
