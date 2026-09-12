@@ -57,4 +57,27 @@ Each module is operator-runnable from a single browser tab, and every project fi
 
 ---
 
+### 💼 Open to work
+
+I take on the problems that sit between a creative team and a delivery deadline — where
+the fix is usually a system, not more hours.
+
+**Creative-technical direction** — owning the pipeline for a series, film or campaign, and the
+people running it
+**Pipeline architecture & automation** — turning a manual, hand-off-heavy process into something
+operator-runnable and repeatable
+**AI-native production tooling** — model-agnostic generation layers, prompt systems, vision-graded
+QA, human review where it actually matters
+**Full-stack media systems** — the web, data and delivery layer around the creative work
+
+Most useful where the brief is *"this works but it doesn't scale"* or *"we need to ship five
+formats and we're doing it by hand."*
+
+> `ROLE_TYPE` · `LOCATION` · `START` — *fill these in: full-time / contract / fractional,
+> Toronto / remote / hybrid, and availability.*
+
+📫 **Nanda@nmediaservices.com** · [LinkedIn](https://www.linkedin.com/in/mnkmars/) · [nmediaservices.com](https://www.nmediaservices.com)
+
+---
+
 <sub>Most production repositories here are private — client work and proprietary pipeline systems. Happy to walk through any of it. <b>Nanda@nmediaservices.com</b></sub>
